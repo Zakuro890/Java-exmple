@@ -6,7 +6,7 @@ public class Study01 extends Human{
 		/*インスタンスの生成
 		 * コンストラクタを使って初期値を設定する
 		 */
-		Teacher te  = new Teacher("竹迫","6/21","12345");
+		Teacher te  = new Teacher("田中","6/21","12345");
 		Student st = new Student("大川内","2/24","230101");
 
 		//名前と振舞いを表示する
