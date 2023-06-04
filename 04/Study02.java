@@ -4,7 +4,7 @@ public class Study02 extends Human{
 
 	public static void main(String[] args) {
 		//インスタンスの生成と初期値の設定
-		Teacher te  = new Teacher("竹迫","6/21","12345");
+		Teacher te  = new Teacher("田中","6/21","12345");
 		Student st = new Student("大川内","2/24","230101");
 
 		//先生と学生を紹介するクラスのインスタンス生成
